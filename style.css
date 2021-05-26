@@ -1,0 +1,109 @@
+.top-container {
+  background-color: #1f8dc0;
+  margin: auto;
+  padding-top: 50px;
+
+}
+
+.container {
+  padding-top: 50px;
+}
+.bottom-container {
+  background-color: #08AEEA;
+  background-image: linear-gradient(0deg, #08AEEA 0%, #04f2fa 95%, #ffffff 100%);
+  padding: 10px;
+}
+h1 {
+  font-size: 10px;
+  color:rgb(129, 32, 32);
+}
+html {
+  float: left;
+}
+
+
+body {
+  text-align: center;
+  ;
+  margin: 0;
+}
+p {
+  font-size: 20px;
+}
+hr {
+  margin-top: 20px;
+  border-style: dotted;
+  border-top: none;
+  width: 10%;
+  color: #045b7e;
+  border-bottom-width:thick;
+}
+.top-cloud {
+  width: 200px;
+  height: 100px;
+  position: relative;
+  left: 450px;
+}
+
+.bottom-cloud {
+  width: 200px;
+  height: 100px;
+  position: relative;
+  right: 450px;
+}
+
+.mount {
+  height: 300px;
+  width: 1510px;
+}
+
+.para {
+  position: relative;
+  left: 500px;
+  margin-top: 0;
+  width: 950px;
+}
+
+.myphoto {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+.myphoto:hover {
+  width: 350px;
+  height: 350px;
+  border-radius: 0;
+}
+.htmlimg {
+  width: 300px;
+  height:auto;
+  border-radius: 25%;
+
+}
+.htmlimg:hover {
+  width: 350px;
+  height:auto;
+  border-radius: 0;
+
+}
+
+.bottom  {
+  font-size: 30px;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+.logo:hover
+{
+  width: 60px;
+  height: 60px;
+}
+.school:hover{
+  color:rgb(54, 88, 238);
+}
+img {
+  width: 100%;
+}
